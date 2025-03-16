@@ -110,9 +110,9 @@ public class Chatter {
         try{
             String udpSentMessage = "[UDP] " + userName + ": \n" +
             "   _____  \n" +
-            "  /     \\ \n" +
-            " | O   O | \n" +
-            " |   ^   | \n" +
+            "  /^   ^\\ \n" +
+            " | o   o  | \n" +
+            " |   ^    | \n" +
             " |  \\_/  | \n" +
             "  \\_____/ \n";
             byte[] udpSendBuffer = udpSentMessage.getBytes();

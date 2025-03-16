@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
+import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Set;
@@ -73,9 +74,18 @@ public class ChatServer {
             System.out.println("Server stopped");
         }));
 
+        startServerThreads();
+    }
+
+    private static void startServerThreads(){
+        Thread tcpServerThread = new Thread(ChatServer::tcpServer);
+        Thread udpServerThread = new Thread(ChatServer::udpServer);
+        tcpServerThread.start();
+        udpServerThread.start();
+    }
+
+    private static void tcpServer(){
         try (ServerSocket tcpServerSocket = new ServerSocket(TCP_PORT)){
-            Thread udpServerThread = new Thread(() -> UdpServer());
-            udpServerThread.start();
             while(true){
                 Socket tcpChatterSocket = tcpServerSocket.accept();
                 System.out.println("New client connected: " + tcpChatterSocket.getInetAddress());
@@ -89,24 +99,24 @@ public class ChatServer {
         }
     }
 
-    private static void UdpServer(){
+    private static void udpServer(){
         try (DatagramSocket udpServerSocket = new DatagramSocket(UDP_PORT)){
             byte[] receiveBuffer = new byte[1024];
             while(true){
                 DatagramPacket receivePacket = new DatagramPacket(receiveBuffer, receiveBuffer.length);
                 udpServerSocket.receive(receivePacket);
                 String message = new String(receivePacket.getData());
-                System.out.println("Received UDP message: " + message);
-                UdpBroadcast(message);
+                // System.out.println("Received UDP message: " + message);
+                udpBroadcast(message);
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private static void UdpBroadcast(String message){
+    private static void udpBroadcast(String message){
         for(TcpChatterHandlerer chatter : tcpChatters){
-            chatter.sendMessage(message);
+                chatter.sendMessage(message);
         }
     }
 
