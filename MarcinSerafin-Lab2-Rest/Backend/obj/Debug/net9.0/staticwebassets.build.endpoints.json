@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
+      "AssetFile": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007462686567"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc="
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
+      "AssetFile": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc="
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html.gz",
+      "AssetFile": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs="
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.sfl1wcccsf.html",
+      "AssetFile": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007462686567"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfl1wcccsf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc="
+        },
+        {
+          "Name": "label",
+          "Value": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html"
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.sfl1wcccsf.html",
+      "AssetFile": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfl1wcccsf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc="
+        },
+        {
+          "Name": "label",
+          "Value": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html"
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.sfl1wcccsf.html.gz",
+      "AssetFile": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfl1wcccsf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs="
+        },
+        {
+          "Name": "label",
+          "Value": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html.gz"
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
+      "AssetFile": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007462686567"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc="
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
+      "AssetFile": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc="
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html.gz",
+      "AssetFile": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs="
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.sfl1wcccsf.html",
+      "AssetFile": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007462686567"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfl1wcccsf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc="
+        },
+        {
+          "Name": "label",
+          "Value": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html"
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.sfl1wcccsf.html",
+      "AssetFile": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfl1wcccsf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1+SDWjo7e/PdKc="
+        },
+        {
+          "Name": "label",
+          "Value": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html"
+        }
+      ]
+    },
+    {
+      "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.sfl1wcccsf.html.gz",
+      "AssetFile": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfl1wcccsf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs="
+        },
+        {
+          "Name": "label",
+          "Value": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html.gz"
+        }
+      ]
+    }
+  ]
+}

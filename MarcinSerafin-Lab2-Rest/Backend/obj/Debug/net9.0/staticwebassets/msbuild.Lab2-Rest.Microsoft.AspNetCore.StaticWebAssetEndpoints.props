@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Lab2-Rest/holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\holidays\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1\u002BSDWjo7e/PdKc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"175"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yLLcju42/ZktyO5hKgXNO0XCOsbkZ1\u002BSDWjo7e/PdKc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 17:15:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Lab2-Rest/holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.sfl1wcccsf.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\holidays\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sfl1wcccsf"},{"Name":"integrity","Value":"sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1\u002BSDWjo7e/PdKc="},{"Name":"label","Value":"_content/Lab2-Rest/holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"175"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yLLcju42/ZktyO5hKgXNO0XCOsbkZ1\u002BSDWjo7e/PdKc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 17:15:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Lab2-Rest/holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\holidays\Petr-e4edd852-436c-4def-a97c-46b08b429068.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1\u002BSDWjo7e/PdKc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"175"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yLLcju42/ZktyO5hKgXNO0XCOsbkZ1\u002BSDWjo7e/PdKc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 17:14:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Lab2-Rest/holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.sfl1wcccsf.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\holidays\Petr-e4edd852-436c-4def-a97c-46b08b429068.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sfl1wcccsf"},{"Name":"integrity","Value":"sha256-yLLcju42/ZktyO5hKgXNO0XCOsbkZ1\u002BSDWjo7e/PdKc="},{"Name":"label","Value":"_content/Lab2-Rest/holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"175"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yLLcju42/ZktyO5hKgXNO0XCOsbkZ1\u002BSDWjo7e/PdKc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 17:14:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
