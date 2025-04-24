@@ -1,5 +1,9 @@
 **/*/.idea
 **/*.iml
+**/*/bin
+**/*/obj
+**/*/publish
+**/*/Debug
 Lib/
 Scripts/
 Gradle/
@@ -8,3 +12,4 @@ gradlew
 gradlew.bat
 gradle-wrapper.jar
 settings.gradle
+
