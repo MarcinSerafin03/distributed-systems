@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\Lab2-Rest.csproj",
+      "projectUniqueName": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\Lab2-Rest.csproj",
       "projectName": "Lab2-Rest",
-      "projectPath": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\Lab2-Rest.csproj",
+      "projectPath": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\Lab2-Rest.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\",
+      "outputPath": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -531,7 +531,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

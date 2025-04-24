@@ -121,7 +121,7 @@ public class HolidayController : ControllerBase
     public async Task<IActionResult> FetchHolidaysByDate(
         [FromQuery] int month, [FromQuery] int day, [FromQuery] bool json)
     {   
-        if (month <= 0 || day <= 0)
+        if (month <= 0 || day <= 0 || month > 12 || day > 31)
         {
             return BadRequest("Invalid parameters");
         }

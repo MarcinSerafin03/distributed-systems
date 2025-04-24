@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L1BaT+h0IvXJlrVTem3ftWMT/wz97u9iBJHJW3n/OM4=",
+  "Hash": "Sm+Gsz18rUhAN4Gwdkb+kncTqkjb9bYHEjde6+sf4iQ=",
   "Source": "Lab2-Rest",
   "BasePath": "_content/Lab2-Rest",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Lab2-Rest\\wwwroot",
       "Source": "Lab2-Rest",
-      "ContentRoot": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\",
+      "ContentRoot": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\",
       "BasePath": "_content/Lab2-Rest",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
+      "Identity": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
       "SourceId": "Lab2-Rest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Lab2-Rest",
       "RelativePath": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068#[.{fingerprint=sfl1wcccsf}]?.html.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
+      "RelatedAsset": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "53faaffik8",
       "Integrity": "Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html"
+      "OriginalItemSpec": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html"
     },
     {
-      "Identity": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
+      "Identity": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
       "SourceId": "Lab2-Rest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Lab2-Rest",
       "RelativePath": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262#[.{fingerprint=sfl1wcccsf}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
+      "RelatedAsset": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "53faaffik8",
       "Integrity": "Hz8Cb5nCYEPCxj2ywyaYkl8rrAT/FXV/3AJTgygWaFs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html"
+      "OriginalItemSpec": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html"
     },
     {
-      "Identity": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
+      "Identity": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
       "SourceId": "Lab2-Rest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\",
+      "ContentRoot": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\",
       "BasePath": "_content/Lab2-Rest",
       "RelativePath": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html"
     },
     {
-      "Identity": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
+      "Identity": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
       "SourceId": "Lab2-Rest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\",
+      "ContentRoot": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\",
       "BasePath": "_content/Lab2-Rest",
       "RelativePath": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -104,7 +104,7 @@
   "Endpoints": [
     {
       "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -127,7 +127,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -159,7 +159,7 @@
     },
     {
       "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -180,7 +180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -196,7 +196,7 @@
     },
     {
       "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html.gz",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -217,7 +217,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -241,7 +241,7 @@
     },
     {
       "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.sfl1wcccsf.html",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -264,7 +264,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -304,7 +304,7 @@
     },
     {
       "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.sfl1wcccsf.html",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -325,7 +325,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -349,7 +349,7 @@
     },
     {
       "Route": "holidays/Petr-bcd9c2f0-aca3-4fd9-a114-9409e73f8262.sfl1wcccsf.html.gz",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\tkqas1rpk5-sfl1wcccsf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -370,7 +370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:15:25 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -402,7 +402,7 @@
     },
     {
       "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -425,7 +425,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -457,7 +457,7 @@
     },
     {
       "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -478,7 +478,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -494,7 +494,7 @@
     },
     {
       "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.html.gz",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -515,7 +515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -539,7 +539,7 @@
     },
     {
       "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.sfl1wcccsf.html",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -562,7 +562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -602,7 +602,7 @@
     },
     {
       "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.sfl1wcccsf.html",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\wwwroot\\holidays\\Petr-e4edd852-436c-4def-a97c-46b08b429068.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -623,7 +623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -647,7 +647,7 @@
     },
     {
       "Route": "holidays/Petr-e4edd852-436c-4def-a97c-46b08b429068.sfl1wcccsf.html.gz",
-      "AssetFile": "C:\\CS_University\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
+      "AssetFile": "C:\\University_CS\\Year III\\Semester VI\\distributed-systems\\Lab2-Rest\\Lab2-Rest\\obj\\Debug\\net9.0\\compressed\\piob0roztg-sfl1wcccsf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -668,7 +668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:14:30 GMT"
+          "Value": "Fri, 28 Mar 2025 09:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
