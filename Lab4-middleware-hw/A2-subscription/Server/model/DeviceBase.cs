@@ -1,5 +1,5 @@
 using System;
-using Smarthome.Services;
+using SmartHome.Services;
 
 namespace SmartHome.Server
 {

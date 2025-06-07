@@ -1,8 +1,6 @@
 syntax = "proto3";
 
-option csharp_namespace = "SmartHome.Services";
-
-package smartHome;
+package services;
 
 service SmartHomeService {
     rpc ListDevices(ListDevicesRequest) returns (ListDevicesResponse);
@@ -25,12 +23,12 @@ message ListDevicesResponse {
 message Device {
 	string id = 1;
 	string name = 2;
-	ProtoDeviceType type = 3;
+	DeviceType type = 3;
 	string subType = 4;
 	bool online = 5;
 }
 
-enum ProtoDeviceType {
+enum DeviceType {
 	UNKNOWN = 0;
 	SECURITY_CAMERA = 1;
 	THERMOSTAT = 2;
@@ -128,7 +126,7 @@ message MonitorRequest {
 
 message DeviceStatus {
 	string deviceId = 1;
-	ProtoDeviceType deviceType = 2;
+	DeviceType deviceType = 2;
 	bool isOnline = 3;
 	oneof statusInfo {
 		SecurityCameraInfo securityCameraInfo = 4;
