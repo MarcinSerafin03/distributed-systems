@@ -13,3 +13,7 @@ gradlew.bat
 gradle-wrapper.jar
 settings.gradle
 
+apache-zookeeper-3.8.4-bin
+.venv
+*.jar
+__pycache__
